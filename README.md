@@ -156,14 +156,14 @@ Topics that were able to be isolated:
 There is need to continue this work for the geology/sedimentology scientific research.  What we can discover can help catapult the discovery of latent knowledge in the research.  In the future this project will encorporate the following. 
 
 - PDF reader debugging or find a new reader that can handle a wider range of pdf images and translate into text.  
-- Train / test using prior work to train and the lastest work to test and model for predictions
-- Utilize Word2Vec and Doc2Vec more thoroughly to pull our words and associated papers that look unique in the topic environments. 
+- Train / test using prior work to train models and the lastest work to test and model for predictions
+- Utilize Word2Vec and Doc2Vec more thoroughly to pull out words and associated papers that look unique in the topic environments. 
 
 
 ## Conclusion
 
 _Answer the Problem_
 
-Topics were able to be assigned to each document and showed a distinct and unique flow.  This does not indicate there was any gaps associated in research at this time.  Training a larger vocabulary associated with PETM research can improve these results.   
+Topics were able to be assigned to each document and showed a distinct and unique flow.  This does not indicate there were any gaps associated in research at this time.  Training a larger vocabulary associated with PETM research can improve these results.   
 
 
