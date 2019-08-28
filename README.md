@@ -2,7 +2,7 @@
 
 ---
 
-__An exploration into using unsupervised learning methods to pull out the themes or topics of a large body of scientific text.  __
+__#### An exploration into using unsupervised learning methods to pull out the themes or topics of a large body of scientific text.  __
 
 
 Global warming, attributed to increasing carbon dioxide in the atmosphere, causes climate shifts and sea-level rises that have great social and economic impacts on populations.  
