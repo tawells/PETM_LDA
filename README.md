@@ -2,7 +2,7 @@
 
 ---
 
-__#### An exploration into using unsupervised learning methods to pull out the themes or topics of a large body of scientific text.  __
+#### An exploration into using unsupervised learning methods to pull out the themes or topics of a large body of scientific text.  
 
 
 Global warming, attributed to increasing carbon dioxide in the atmosphere, causes climate shifts and sea-level rises that have great social and economic impacts on populations.  
@@ -50,7 +50,7 @@ __Using Natural Language Processing and Machine Learning, what can we learn abou
 _Data Collection_
 
 __1. Find source for PETM research__
-  - The dat science was generated out of the mound of data that was collected over 30 years by Christoper Denison PhD. The issue lies in that a preponderence of scientific knowledge is in the form of text.  In the past these were housed in journals and publications.  In the last few years research has now been able to be read online and downloaded with a fee.  The pdf downloads are not consistent and most researchers turn to scanning their old journals. 
+  - The data source was generated out of documents collected over 30 years by Christoper Denison PhD. The issue lies in that a preponderence of scientific knowledge is in the form of text, housed in journals and publications.  In the last few years research has now been able to be read online and downloaded with a fee.  The pdf downloads are not consistent and most researchers turn to scanning their old journals. 
 
 __2. Turn the pdfs of research into usable text__
   - To generate a text file of the pdf's, I used the package pyPDF2 to read pdf's individually and save them, again individually into their own text files. 
